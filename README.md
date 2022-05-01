@@ -40,3 +40,15 @@
 :crystal_ball: Predicate <br />
 :crystal_ball: Supplier <br />
 
+## Checkout Clean Code:
+### Writing to Excel
+<img align="center" width="700" height="500" src="https://user-images.githubusercontent.com/88590240/166146233-5f3f57b1-f4a4-42f6-b3bb-f220732a9be9.png">
+
+### CallBack
+<img align="center" width="600" height="500" src="https://user-images.githubusercontent.com/88590240/166149948-70719f42-24fa-4b02-9a95-3164ae7ca253.png">
+
+### Function
+<img align="center" width="500" height="500" src="https://user-images.githubusercontent.com/88590240/166154538-0f372f96-1648-4d86-94e8-dae1186beebe.png">
+
+### Predicate
+<img align="center" width="550" height="500" src="https://user-images.githubusercontent.com/88590240/166154555-5a83b223-11e1-4694-a726-ec522113bf59.png">
